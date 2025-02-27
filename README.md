@@ -1,2 +1,5 @@
 # Lexicon
-fisheries acoustics lexicon
+Echopype variables  
+
+$\sigma_{bs}$
+
